@@ -1,2 +1,2 @@
 # GraficoseDados
-Codigos utilizados das Análises feitas no site GraficoseDados
+Code utilized for the GraficoseDados blog
